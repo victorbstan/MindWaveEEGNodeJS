@@ -1,8 +1,10 @@
 # MindWave NodeJS/WebSockets Integration
 
-Sample/Experimental NodeJS application to connect to and display live-data from [MindWave NeuroSky Headset](http://store.neurosky.com/pages/mindwave) Electroencephalogram (EEG) Device.
+![Image of MindWave](/headset.jpg)
 
-*Note: the application was built and tested with an older version of the headset, may or may not work with the latest.*
+*Image not mine, copyright respective owner.*
+
+Sample/Experimental NodeJS application to connect to and display live-data from [MindWave NeuroSky Headset](http://store.neurosky.com/pages/mindwave) Electroencephalogram (EEG) Device.
 
 ## Run applications
 
@@ -12,3 +14,5 @@ Sample/Experimental NodeJS application to connect to and display live-data from 
 4. Access the front-end at `http://localhost:3000/app.html`, if you used the above instructions.
 5. Click the *Run WebSocket* button to initialize connection to the back-end.
 6. Good luck.
+
+*Note: the application was built and tested with an older version of the headset, may or may not work with the latest.*
