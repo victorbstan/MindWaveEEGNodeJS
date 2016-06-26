@@ -16,3 +16,5 @@ Sample/Experimental NodeJS application to connect to and display live-data from 
 6. Good luck.
 
 *Note: the application was built and tested with an older version of the headset, may or may not work with the latest.*
+
+Here is an old video of the app in action: https://www.youtube.com/watch?v=cFROUiLrWr4
